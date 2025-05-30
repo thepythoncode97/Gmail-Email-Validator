@@ -29,9 +29,9 @@
 # Contact
 # 接触
 
-If you want to buy this tool, contact me via Telegram [@alexrony21](https://t.me/alexrony21). 
+If you want to buy this tool, contact me via Telegram [@thepythoncode97](https://t.me/thepythoncode97). 
 
-如果您想购买此工具，请通过 Telegram [@alexrony21](https://t.me/alexrony21) 与我联系。
+如果您想购买此工具，请通过 Telegram [@thepythoncode97](https://t.me/thepythoncode97) 与我联系。
 
 Thank you!
 谢谢你！
