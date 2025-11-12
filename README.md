@@ -1,7 +1,7 @@
 # Gmail Email Validator
 # Gmail 电子邮件验证器
 
-![Gmail Valid Email Checker](https://raw.githubusercontent.com/alexrony21/Gmail-Email-Validator/refs/heads/main/Gmail_Valid_Email_Checker.png)
+![Gmail Valid Email Checker](https://raw.githubusercontent.com/thepythoncode97/Gmail-Email-Validator/refs/heads/main/Gmail_Valid_Email_Checker.png)
 
 # Features
 # 特征
