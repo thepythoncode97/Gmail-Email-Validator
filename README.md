@@ -24,14 +24,17 @@
 6. **Accurate Results**: Ensures precise verification.
 
    **准确的结果**：确保精确验证。
-7. **Performance Metrics**:  
+7. **No Third-Party API Key Required** : Everything runs on our own infrastructure—no external services, no extra setup, no hidden dependencies.
+
+   **无需第三方 API 密钥**：一切都运行在我们自己的基础设施上——没有外部服务，没有额外设置，没有隐藏的依赖项。
+8. **Performance Metrics**:  
    - **Per Minute Check**: 1087 emails  
    - **For 100k Check**: 1 hour and 32 minutes  
    - **For 1M Check**: 15 hours and 20 minutes  
    **性能指标**：  
    - **每分钟检查**：1087 个邮箱  
    - **检查 10 万个邮箱**：1 小时 32 分钟  
-   - **检查 100 万个邮箱**：15 小时 20 分钟 
+   - **检查 100 万个邮箱**：15 小时 20 分钟
 
 # Contact
 # 接触
