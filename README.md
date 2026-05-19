@@ -46,5 +46,5 @@ To Purchase this tool, contact me via Telegram: [@thepythoncode97](https://t.me/
 ## Note:
 This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
 
-Thank you!
-谢谢你！
+Thank you
+谢谢你
