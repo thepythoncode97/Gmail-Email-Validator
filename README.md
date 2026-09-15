@@ -36,7 +36,7 @@
    - **检查 10 万个邮箱**：1 小时 32 分钟  
    - **检查 100 万个邮箱**：15 小时 20 分钟
 
-# Contact
+# Contact.
 # 接触
 
 To Purchase this tool, contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
